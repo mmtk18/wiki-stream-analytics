@@ -35,6 +35,6 @@ Kafka UI is available at `http://localhost:8080`.
 
 ## Dashboard
 
-The Tableau workbook and preview are in [`wiki-stream-analytics/dashboard`](wiki-stream-analytics/tree/main/dashboard).
+The Tableau workbook and preview are in [`wiki-stream-analytics/dashboard`](dashboard).
 
-![Dashboard preview](wiki-stream-analytics/blob/main/dashboard/dashboard.png)
+![Dashboard preview](dashboard/dashboard.png)
